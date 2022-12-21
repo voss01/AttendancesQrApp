@@ -6,8 +6,11 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 The database is made with flutter so remember to put the following google service files:
-- for android: 'android/app/google-services.json'
-- for ios: 'ios/Runner/GoogleService-Info.plist'
+
+
+| Android      | IOS |
+| ----------- | ----------- |
+| android/app/google-services.json      | ios/Runner/GoogleService-Info.plist       |
 
 A few resources to get you started if this is your first Flutter project:
 
